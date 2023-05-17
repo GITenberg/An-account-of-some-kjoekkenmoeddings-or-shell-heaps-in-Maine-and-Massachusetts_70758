@@ -1,0 +1,25 @@
+_repo: An-account-of-some-kjoekkenmoeddings-or-shell-heaps-in-Maine-and-Massachusetts_70758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyman, Jeffries
+    gutenberg_agent_id: '55907'
+    url: http://www.gutenberg.org/2009/agents/55907
+description: ''
+gutenberg_issued: '2023-05-14'
+identifiers:
+  gutenberg: '70758'
+language: en
+pgterms:marc905: 20230112183357wyman
+pgterms:marc906: '1867'
+pgterms:marc907: US
+production_note: Robert Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bEssex Institute Press, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An account of some kjoekkenmoeddings, or shell-heaps, in Maine and Massachusetts
+url: http://www.gutenberg.org/ebooks/70758
