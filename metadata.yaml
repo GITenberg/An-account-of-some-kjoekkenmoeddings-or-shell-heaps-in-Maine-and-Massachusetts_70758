@@ -1,11 +1,16 @@
 _repo: An-account-of-some-kjoekkenmoeddings-or-shell-heaps-in-Maine-and-Massachusetts_70758
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70758-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyman, Jeffries
     gutenberg_agent_id: '55907'
     url: http://www.gutenberg.org/2009/agents/55907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70758#An-account-of-some-kjoekkenmoeddings-or-shell-heaps-in-Maine-and-Massachusetts
 gutenberg_issued: '2023-05-14'
 identifiers:
   gutenberg: '70758'
